@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <PackageReference Include="Mongo2Go" Version="3.1.3" />
-    <ProjectReference Include="..\Geex.Common.Abstraction\Geex.Common.Abstraction.csproj" />
     <ProjectReference Include="..\Redis2Go\src\Redis2Go\Redis2Go.csproj" />
   </ItemGroup>
 
